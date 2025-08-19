@@ -1,4 +1,4 @@
 # Shell
 
-Schell Scripts for reference
+Shell Scripts for reference
 
